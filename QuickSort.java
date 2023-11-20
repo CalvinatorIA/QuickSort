@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /******************************
- * 
  * @author Calvin Andersen
  * I did NOT work with anyone else for this Project
  * 
@@ -15,7 +14,7 @@ import java.util.List;
  * This Project implements the Quicksort algorithm.
  ******************************/
 
-public class ManageQuickSort {
+public class QuickSort {
 	public static void main(String[] args) {
 		List<Integer> integerList = new ArrayList<>();
 		List<String> stringList = new ArrayList<>();
